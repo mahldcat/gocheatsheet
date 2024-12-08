@@ -1,2 +1,2 @@
 # gocheatsheet
-Go Cheatsheet for common elements
+Common syntax for elements used in Go
